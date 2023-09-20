@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.cart-summary-head {
+  font-family: 'Roboto';
+  color: #616e7c;
+  font-size: 18px;
+}
+
+.cart-summary-sub-head {
+  color: #171f46;
+  font-size: 21px;
+}
+
+.cart-summary-text {
+  font-family: 'Roboto';
+  color: #616e7c;
+  font-size: 14px;
+}
+
+.cart-summary-button {
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 13px;
+}
